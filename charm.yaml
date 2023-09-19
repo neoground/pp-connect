@@ -1,0 +1,8 @@
+# +-------------------------------------------------------------------------+
+# | charm.yaml - The Charm Module Manifest                                  |
+# +-------------------------------------------------------------------------+
+
+name:    PP-Connect
+version: 1.0
+summary: Connect PentaPaper to your own app
+binding: \PentaPaper\Connect\Connect

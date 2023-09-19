@@ -1,0 +1,15 @@
+{
+  "name": "pentapaper/pp-connect",
+  "description": "Connect PentaPaper to your own app",
+  "license": "MIT",
+  "version": "1.0",
+  "require": {
+    "php": ">=8.1",
+    "neoground/charm": "^3.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "PentaPaper\\Connect\\": "app/"
+    }
+  }
+}
